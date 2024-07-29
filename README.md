@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning to create a Testing Framework with API and web automation testing
 - 💞️ I’m looking to collaborate on the above
 - 📫 You can reach me via joseph.revealtest@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: you can find me defending Messi everywhere.
 
 <!---
